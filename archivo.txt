@@ -1,0 +1,17 @@
+start programa;
+import libreria1;
+import libreria2;
+{
+    public int main() {
+        int x = 5;
+        if (x > 3) {
+            write("mayor");
+        }
+        else {
+            write("menor");
+        }
+        return 0;
+    };
+
+}
+end
